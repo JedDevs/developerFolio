@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/developerFolio/static/css/main.6a91cc38.chunk.css",
+    "main.js": "/developerFolio/static/js/main.7b762ef6.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.7b762ef6.chunk.js.map",
+    "runtime-main.js": "/developerFolio/static/js/runtime-main.37702d81.js",
+    "runtime-main.js.map": "/developerFolio/static/js/runtime-main.37702d81.js.map",
+    "static/js/2.7d8ca1b2.chunk.js": "/developerFolio/static/js/2.7d8ca1b2.chunk.js",
+    "static/js/2.7d8ca1b2.chunk.js.map": "/developerFolio/static/js/2.7d8ca1b2.chunk.js.map",
+    "index.html": "/developerFolio/index.html",
+    "precache-manifest.46e23fd5244be13dbaccd5fa3a63226b.js": "/developerFolio/precache-manifest.46e23fd5244be13dbaccd5fa3a63226b.js",
+    "service-worker.js": "/developerFolio/service-worker.js",
+    "static/css/main.6a91cc38.chunk.css.map": "/developerFolio/static/css/main.6a91cc38.chunk.css.map",
+    "static/media/index.css": "/developerFolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/GkfuWn0d_400x400.jpg": "/developerFolio/static/media/GkfuWn0d_400x400.c442c932.jpg",
+    "static/media/ae8b7b0e-c88b-45d9-bf26-aa5fb7c1f578-Org-OCR-Logo.jpg": "/developerFolio/static/media/ae8b7b0e-c88b-45d9-bf26-aa5fb7c1f578-Org-OCR-Logo.654f048d.jpg",
+    "static/media/black_tilt_1200x1200.png": "/developerFolio/static/media/black_tilt_1200x1200.31390689.png",
+    "static/media/contactMail.png": "/developerFolio/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.59389695.svg",
+    "static/media/logo.svg": "/developerFolio/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.52be3144.svg",
+    "static/media/pearson.jpg": "/developerFolio/static/media/pearson.596cf8cf.jpg",
+    "static/media/skill.svg": "/developerFolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/developerFolio/static/media/talksCardBack.de3da806.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37702d81.js",
+    "static/js/2.7d8ca1b2.chunk.js",
+    "static/css/main.6a91cc38.chunk.css",
+    "static/js/main.7b762ef6.chunk.js"
+  ]
+}
